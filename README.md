@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" alt="Lifeboat logo" width="112"></p>
+
 # lifeboat-protocol
 
 The Go domain model for sponsor-funded open-source maintenance and rescue work.
